@@ -1,0 +1,15 @@
+/Users/dd/aoc_2022_Q2/bin/Debug/net6.0/aoc_2022_Q2
+/Users/dd/aoc_2022_Q2/bin/Debug/net6.0/aoc_2022_Q2.deps.json
+/Users/dd/aoc_2022_Q2/bin/Debug/net6.0/aoc_2022_Q2.runtimeconfig.json
+/Users/dd/aoc_2022_Q2/bin/Debug/net6.0/aoc_2022_Q2.dll
+/Users/dd/aoc_2022_Q2/bin/Debug/net6.0/aoc_2022_Q2.pdb
+/Users/dd/aoc_2022_Q2/obj/Debug/net6.0/aoc_2022_Q2.csproj.AssemblyReference.cache
+/Users/dd/aoc_2022_Q2/obj/Debug/net6.0/aoc_2022_Q2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dd/aoc_2022_Q2/obj/Debug/net6.0/aoc_2022_Q2.AssemblyInfoInputs.cache
+/Users/dd/aoc_2022_Q2/obj/Debug/net6.0/aoc_2022_Q2.AssemblyInfo.cs
+/Users/dd/aoc_2022_Q2/obj/Debug/net6.0/aoc_2022_Q2.csproj.CoreCompileInputs.cache
+/Users/dd/aoc_2022_Q2/obj/Debug/net6.0/aoc_2022_Q2.dll
+/Users/dd/aoc_2022_Q2/obj/Debug/net6.0/refint/aoc_2022_Q2.dll
+/Users/dd/aoc_2022_Q2/obj/Debug/net6.0/aoc_2022_Q2.pdb
+/Users/dd/aoc_2022_Q2/obj/Debug/net6.0/aoc_2022_Q2.genruntimeconfig.cache
+/Users/dd/aoc_2022_Q2/obj/Debug/net6.0/ref/aoc_2022_Q2.dll
